@@ -9,4 +9,6 @@ Samples of things I've done.
 
 4. Poronerottelu.png and Poronerottelugraafi.png are some ER- and database diagram describing association of reindeer herders. 
 
+5. In folder Sudokusolver is code to solve sudoku for challenge to code sudokusolver.
+
 
